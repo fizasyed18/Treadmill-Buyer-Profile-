@@ -12,26 +12,26 @@ influence treadmill purchases.
 
 ### **Data Description**
 The dataset has the following features:
-**Product Purchased** - KP281, KP481, or KP781
-**Age** - Customer's age in years
-**Gender** - Male/Female
-**Education** - In years
-**Marital Status** - Single/Partnered
-**Usage** - The average number of times the treadmill is used per week by customers
-**Fitness** - Self-rated fitness on a 1-5 scale
-**Income** - Annual income in US dollars
-**Miles** - The average number of miles the customer expects to walk/run each week
+- **Product Purchased** - KP281, KP481, or KP781
+- **Age** - Customer's age in years
+- **Gender** - Male/Female
+- **Education** - In years
+- **Marital Status** - Single/Partnered
+- **Usage** - The average number of times the treadmill is used per week by customers
+- **Fitness** - Self-rated fitness on a 1-5 scale
+- **Income** - Annual income in US dollars
+- **Miles** - The average number of miles the customer expects to walk/run each week
 
 ### **Shape of Dataframe**
-This dataset has **180** rows and **9** columns.
+- This dataset has **180** rows and **9** columns.
 
 ### **Datatypes of Columns**
-**3** Categorical columns: Product, Gender and Marital Status
-**6** Numerical columns: Age, Education, Usage, Fitness, Income and Miles
+- **3** Categorical columns: Product, Gender and Marital Status
+- **6** Numerical columns: Age, Education, Usage, Fitness, Income and Miles
 
 ### **Missing and Duplicated Values**
-There are no missing values in the dataset.
-There are **0** duplicate rows in the dataset.
+- There are no missing values in the dataset.
+- There are **0** duplicate rows in the dataset.
 
 ### **Future Recommendations**
 **KP281**
